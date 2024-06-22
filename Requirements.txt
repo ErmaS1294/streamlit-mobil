@@ -3,3 +3,4 @@ pandas
 scikit-learn
 streamlit==1.36.0
 matplotlib==3.9.0
+python==3.12.4
